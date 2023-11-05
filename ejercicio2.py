@@ -26,8 +26,6 @@ frase = "tres tristes tigres trigaban trigo por culpa del bolivar"
 
 with mp.Pool(processes=2) as pool:
     resultados = pool.map(pal, [frase])
-
-# Print the results from the pool.map operation
 for grupo1, grupo2 in resultados:
     print("Grupo 1:", grupo1)
     print("Grupo 2:", grupo2)
