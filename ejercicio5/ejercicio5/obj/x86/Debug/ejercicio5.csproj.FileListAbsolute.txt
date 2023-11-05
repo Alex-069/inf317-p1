@@ -1,0 +1,5 @@
+D:\inf-317 silva\ejercicio5\ejercicio5\bin\Debug\ejercicio5.exe
+D:\inf-317 silva\ejercicio5\ejercicio5\bin\Debug\ejercicio5.pdb
+D:\inf-317 silva\ejercicio5\ejercicio5\obj\x86\Debug\ejercicio5.exe
+D:\inf-317 silva\ejercicio5\ejercicio5\obj\x86\Debug\ejercicio5.pdb
+D:\inf-317 silva\ejercicio5\ejercicio5\obj\x86\Debug\ejercicio5.csprojResolveAssemblyReference.cache
