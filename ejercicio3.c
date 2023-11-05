@@ -19,7 +19,7 @@ char** divide_frase(char* frase) {
     int mitad = num_palabras / 2;
     grupos[mitad] = NULL;
     
-    free(frase_copy); // Free the copied string
+    free(frase_copy); 
     
     return grupos;
 }
