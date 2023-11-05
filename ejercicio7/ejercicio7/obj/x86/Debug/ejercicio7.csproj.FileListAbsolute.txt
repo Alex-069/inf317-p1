@@ -1,0 +1,4 @@
+D:\inf-317 silva\ejercicio7\ejercicio7\bin\Debug\ejercicio7.exe
+D:\inf-317 silva\ejercicio7\ejercicio7\bin\Debug\ejercicio7.pdb
+D:\inf-317 silva\ejercicio7\ejercicio7\obj\x86\Debug\ejercicio7.exe
+D:\inf-317 silva\ejercicio7\ejercicio7\obj\x86\Debug\ejercicio7.pdb
